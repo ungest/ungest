@@ -1,6 +1,10 @@
 # Hi there, I'm David Usoro! 👋
 
-I'm a **Data Scientist** with an engineering background, passionate about using data to solve real-world problems. My expertise lies in **data wrangling**, **exploratory analysis**, and building **predictive models**. I thrive in fast-paced environments, transforming raw data into actionable insights and driving data-driven decision-making.
+I'm a **Data Scientist** with an engineering background, passionate about using data to solve real-world problems. 
+
+My expertise lies in **data wrangling**, **exploratory analysis**, and building **predictive models**. 
+
+I thrive in fast-paced environments, transforming raw data into actionable insights and driving data-driven decision-making.
 
 ## Projects
 
